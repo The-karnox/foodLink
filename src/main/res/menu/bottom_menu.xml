@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_house"
+        android:icon="@drawable/baseline_add_home_work_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/bottom_ngo"
+        android:icon="@drawable/baseline_assist_walker_24"
+        android:title="NGO's" />
+    <item
+        android:id="@+id/bottom_settings"
+        android:icon="@drawable/baseline_cake_24"
+        android:title="Event Managers" />
+    <item
+        android:id="@+id/bottom_profile"
+        android:icon="@drawable/baseline_man_24"
+        android:title="Individuals" />
+</menu>
