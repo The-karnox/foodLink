@@ -1,0 +1,70 @@
+*{
+
+    padding:0;
+    margin:0;
+    font-family: "Crimson Text", serif;
+  font-weight: 400;
+  font-style: normal;
+
+}
+.hero-section{
+    background-image: linear-gradient(#224B0C,#28b467 );
+    width:100%;
+    height:100vh;
+    background-size: cover;
+
+    
+    position: relative;
+}
+nav{
+    color: #fff;
+    width: 100%;
+    height: 7vh;
+   text-align: right;
+    
+}
+.hero-text{
+    color:white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    
+}
+button, .contact{
+    font-size: 17px;
+    border: none;
+    border-radius: 19px;
+    padding: 5px 10px;
+    margin-top:10px;
+    background-color: #DFD7BF;
+    cursor: pointer;
+    border: solid 1px;
+}
+.about-us{
+    float: left;
+
+    
+    padding: 10px 10px;
+    text-align: center;
+    background-color:#f6f5f4 ;
+}
+.about-section > h1{
+    height: 5vh;
+  background-color: rgb(12, 9, 44);
+    text-align: center;
+    padding: 20px 0px;
+    text-decoration: none;
+    background-image: linear-gradient( #f6f5f4 );
+    color: #000000;
+    letter-spacing: 2.5px;
+
+}
+
+
+
+
+body{
+    background-color:#f6f5f4 ;
+}
